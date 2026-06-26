@@ -11,15 +11,7 @@
 ![website](https://img.shields.io/website?url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fcredentials%2Fcertifications%2Fgithub-foundations%2F%3Fpractice-assessment-type%3Dcertification
 )
 
-\### :zap: Actividad reciente
 
-\<!--START\_SECTION:activity-->
-
-\<!--END\_SECTION:activity-->
-
-
-
-\<!--RECENT\_ACTIVITY:start-->
-
-\<!--RECENT\_ACTIVITY:last\_update-->
-
+### ⚡ Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update--> 
